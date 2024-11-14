@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.padre {
+    border: 2px black dotted;
+    display: inline-block;
+}
+
+.caja {
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#uno {
+    background-color: green;
+    position: absolute;
+    bottom: 15px;
+} 

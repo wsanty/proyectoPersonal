@@ -1,0 +1,9 @@
+html {
+    font-size: 75%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Sin esta opción de herencia el h1 no toma el tamaño de fuente de la etiqueta HTML */
+h1 {
+    font-size: inherit;
+}
